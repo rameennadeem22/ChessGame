@@ -1,2 +1,2 @@
 # ChessGame
-This game was built using SFML and static 1D and 2D arrays. In order to make the program a bit easier to understand, segmentation into functions was done. Highlights of this game are pawn promotion, pawn movement and checkmate, check and stalemate conditions.
+This game was built using SFML and static 1D and 2D arrays. In order to make the program a bit easier to understand, segmentation into functions was done. Highlights of this game are pawn promotion, pawn movement and checkmate, check and stalemate conditions. Player's score is calculated according to the kills their pieces perform and is stored so the game can be ended whenever the players decide and the one with maximum score wins (even if checkmate or stalemate is not reached).
